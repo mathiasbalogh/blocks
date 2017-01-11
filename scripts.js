@@ -6,7 +6,7 @@ var bangColor = '#' + ("000000" + Math.random().toString(16).slice(2, 8).toUpper
   $('body').css('background-color', bangColor);
 
   $('#bigBang').on('click', function(){
-    $('#plasma').append('<div class="box"><button class = "delete">X</button></button></div>');
+    $('#plasma').append('<div class="box"><button class = "delete">X</button></div>');
     var color = '#' + ("000000" + Math.random().toString(16).slice(2, 8).toUpperCase()).slice(-6);
     $('.box:last').css('background-color', color);
     // colorArray[randomNumber(1,6)]);
