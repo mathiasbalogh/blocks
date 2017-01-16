@@ -8,6 +8,6 @@ When the Big Bang button is pushed the page will create a new "universe" with an
 
 Additionally, if you (the Creator) clicks on a given universe, she/he can remove light from said universe.
 
-Stretch goal:To randomly assign some of the universes to have a variable life that is a boolean value. If this value were to be true, upon detroying a universe the creator would be alerted that they destroyed a universe with life in it.
+Stretch goal:To randomly assign some of the universes to have a variable life that is a boolean value. If this value were to be true, upon destroying a universe the creator would be alerted that they destroyed a universe with life in it.
 
 Author: Mathias Balogh
